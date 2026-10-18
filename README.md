@@ -5,9 +5,6 @@
 ## 🚀 Features
 - 🌐 Multi-lingual UI and Language Switcher (Bangla, Banglish, English)
 - 📖 Real-time Wikipedia Knowledge Retrieval Engine
-- ⚡ Lightweight REST API (Flask Backend)
+- ⚡ Lightweights and suitable for all
 
-## 🛠️ Tech Stack
-- **Backend:** Python, Flask, Wikipedia API, PyTorch
-- **Frontend:** HTML5, CSS3, JavaScript (Fetch API)
-- **Deployment:** Replit (API Backend) & Render (Web Frontend)
+## 🛠️ Update incoming 📨
